@@ -1,10 +1,16 @@
 ### OI! Eu sou Maria Rafaela, conhecida também como TLeeona ou Leeona Taufner
 
+<div>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/747684383426609172/987450138467397662/download20220605162149.png?width=427&height=427">
+</div>
+
 - 😄 Pronomes: ela/dela;
 - 📚 Cursando Ciência da Computação ênfase em Full Stack;
 - 🔭 No momento, não estou trabalhando na área;
 - 🌱 Estou estudando JAVA;
 - 📫 Meu email para contato é: m.rafaela.f@gmail.com.
+
+##
 
 <div align="center">
   <a href="https://github.com/TLeeona">
