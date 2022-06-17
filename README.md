@@ -1,8 +1,5 @@
 ### OI! Eu sou Maria Rafaela, conhecida também como TLeeona ou Leeona Taufner
-
-<div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/747684383426609172/987450138467397662/download20220605162149.png?width=427&height=427">
-</div>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/747684383426609172/987442834376376340/picasion.com_1baa48793d25f5e99aa8fa1f7684fac3.gif">
 
 - 😄 Pronomes: ela/dela;
 - 📚 Cursando Ciência da Computação ênfase em Full Stack;
@@ -11,6 +8,7 @@
 - 📫 Meu email para contato é: m.rafaela.f@gmail.com.
 
 ##
+ ![Snake animation](https://github.com/TLeeona/TLeeona/blob/output/github-contribution-grid-snake.svg)
  
 <div align="center">
   <a href="https://github.com/TLeeona">
@@ -27,8 +25,5 @@
   
 <div>
   <a href = "mailto:m.rafaela.f@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-rafaela-barbosa-a4a07a12a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/TLeeona/TLeeona/blob/output/github-contribution-grid-snake.svg)
-
+  <a href="https://www.linkedin.com/in/maria-rafaela-barbosa-a4a07a12a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
