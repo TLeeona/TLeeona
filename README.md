@@ -8,7 +8,7 @@
 - 📫 Meu email para contato é: m.rafaela.f@gmail.com.
 
 ##
-// ![Snake animation](https://github.com/TLeeona/TLeeona/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TLeeona/TLeeona/blob/output/github-contribution-grid-snake.svg)
  
 <div align="center">
   <a href="https://github.com/TLeeona">
