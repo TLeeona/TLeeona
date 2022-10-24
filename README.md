@@ -1,5 +1,5 @@
 ### OI! Eu sou Maria Rafaela, conhecida também como TLeeona ou Leeona Taufner
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/747684383426609172/987442834376376340/picasion.com_1baa48793d25f5e99aa8fa1f7684fac3.gif">
+<img align="right" alt="Rafa-pic" height="145" style="border-radius:50px;" src="https://media.discordapp.net/attachments/747684383426609172/987442834376376340/picasion.com_1baa48793d25f5e99aa8fa1f7684fac3.gif">
 
 - 😄 Pronomes: ela/dela;
 - 📚 Cursando Ciência da Computação ênfase em Full Stack;
